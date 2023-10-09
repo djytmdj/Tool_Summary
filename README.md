@@ -99,6 +99,12 @@ FOFA Pro view 是一款FOFA Pro 资产展示浏览器插件，目前兼容 Chrom
 
 下载地址：https://github.com/ninoseki/mitaka
 
+### 4.1.6. FindSomething
+
+基于chrome、firefox插件的被动式信息泄漏检测工具 
+
+下载地址：https://github.com/momosecurity/FindSomething
+
 ## 4.2. CS插件
 
 适用于cs的插件。
