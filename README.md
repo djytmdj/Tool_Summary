@@ -655,6 +655,12 @@ BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项�
 
 默认华为设备密码：https://forum.ywhack.com/bountytips.php?huawei
 
+### 6.9.10 fuzzDicts
+
+Web Pentesting Fuzz 字典,一个就够了。 
+
+下载地址：https://github.com/TheKingOfDuck/fuzzDicts
+
 ## 6.10. 爆破工具
 
 ### 6.10.1. PortBrute
