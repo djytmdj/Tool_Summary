@@ -37,6 +37,8 @@ https://github.com/r0eXpeR/redteam_vul
 
 https://peiqi.wgpsec.org/wiki/system/
 
+https://github.com/SexyBeast233/SecBooks
+
 # 3. 杂项
 
 下列都是一些在日常渗透测试中可能会用到，但是用处不是那么绝对。
